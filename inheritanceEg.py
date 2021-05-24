@@ -16,8 +16,3 @@ class coronaNewstrain(Corona):
     def skin_Rashes(self):
         print("symotoms of coronaNewstrain-skin_Rashes")
 c=coronaNewstrain()
-c.fever()
-c.cough()
-c.lossOfSmell()
-c.headache()
-c.skin_Rashes()
